@@ -27,3 +27,5 @@ If you encounter issues while running my Docker images, try using the following 
 `docker rm $(docker ps -a -q)`
 
 Alternatively, you can run the backend part without Docker. For this, ensure you have PostgreSQL locally installed. Make sure that the database is created and has the name configured in .env.development. Also, verify that the password and username of your database match.
+
+auth app react httpOnly nest docker pnpm example
