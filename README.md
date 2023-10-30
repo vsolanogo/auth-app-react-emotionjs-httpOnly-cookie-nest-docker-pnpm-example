@@ -31,4 +31,4 @@ Alternatively, you can run the backend part without Docker. For this, ensure you
 auth app react httpOnly nest docker pnpm example
 
 
-![db](bd shema.png)
+![db](bd-shema.png)
